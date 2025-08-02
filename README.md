@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-Excel%20%7C%20SQL%20%7C%20Tableau%20%7C%20Python-blue?style=flat-square&logo=databricks" alt="Skills Badge" />
-  <img src="https://img.shields.io/github/followers/Molla-Adugna?label=Follow&style=social" alt="GitHub followers"/>
+
 </p>
 
 ---
