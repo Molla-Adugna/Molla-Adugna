@@ -22,19 +22,19 @@
 
 Here are some of my featured projects:
 
-### 📘 [Income and Expense Dashboard](https://github.com/Molla-Adugna/income-expense-dashboard)
+### 📘 [Income and Expense Dashboard](https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard)
 A personal finance dashboard built in Excel using data from Kaggle.
 
 | 📊 Dashboard Preview |
 |----------------------|
-| <img src="https://raw.githubusercontent.com/Molla-Adugna/income-expense-dashboard/main/images/dashboard-preview.png" alt="Income Expense Dashboard" width="700"/> |
+| <img src="https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard/blob/main/Income%20and%20Expense%20Dashboar.png"/> |
 
 **Features:**
 - Clean, dynamic design using slicers and charts  
-- Monthly & yearly summary with visual KPIs  
+- Monthly & yearly summary with visual charts  
 - PivotTables and custom Excel formulas
 
-🔗 [Download Excel File](https://github.com/Molla-Adugna/income-expense-dashboard/raw/main/Income_Expense_Dashboard.xlsx)
+🔗 [Download Excel File](https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard/blob/main/Income%20and%20Expense%20Dashboard(data%20from%20Kaggle).xlsx)
 
 ---
 
