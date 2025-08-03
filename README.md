@@ -31,7 +31,7 @@ A personal finance dashboard built in Excel using data from Kaggle.
 
 **Features:**
 - Clean, dynamic design using slicers and charts  
-- Monthly & yearly summary with visual charts  
+- Monthly & Category summary with visual charts  
 - PivotTables and custom Excel formulas
 
 🔗 [Download Excel File](https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard/blob/main/Income%20and%20Expense%20Dashboard(data%20from%20Kaggle).xlsx)
